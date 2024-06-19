@@ -1,3 +1,3 @@
 # EXA_1
 Reserva Hoteles
-Proyecto Génesis Ramirez Granados y Esteban Torres Monge
+Proyecto_1: Génesis Ramirez Granados y Esteban Torres Monge
