@@ -1,0 +1,21 @@
+<?php 
+
+$peliculasGeneros = array(
+    array("id -> 1, "pelicula" -> "El Padrino", "genero", -> "Drama"),
+    array("id -> 2, "pelicula" -> "La Guerra de las Galaxias", "genero", -> "Ciencia Ficción"),
+    array("id -> 3, "pelicula" -> "Jurasicc Park", "genero", -> "Aventura"),
+    array("id -> 4, "pelicula" -> "Titacic", "genero", -> "Romance"),
+    array("id -> 5, "pelicula" -> "El Caballero Oscuro", "genero", -> "Acción"),
+    array("id -> 6, "pelicula" -> "Toy Story", "genero", -> "Animación"),
+    array("id -> 7, "pelicula" -> "El Resplandor", "genero", -> "Terror"),
+);
+?>
+
+Como se obtiene al valor El Padrino:
+echo $peliculasGeneros[0]["pelicula"]; // Salida: El Padrino
+
+Como se obtiene al valor Titanic:
+echo $peliculasGeneros[3]["pelicula"]; // Salida: Titanic
+
+Como se obtiene al valor 4:
+echo $peliculasGeneros[3]["id"]; // Salida: 4
