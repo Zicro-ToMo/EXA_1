@@ -1,0 +1,20 @@
+Examen II de Génesis Ramirez Granados y Esteban Torres Monge
+
+II PARTE: Teoría.
+1. Explique con sus palabras que es Herencia en programación en objetos.
+
+La herencia es fundamental en programación orientada a objetos (OOP). Basicamente es la 
+capacidad de crear una nueva clase basándose en una clase existente, ésta pasa a llamarse
+subclase, hereda los atributos de la clase original o la ya existente. La subclase puede
+tener sus propios atributos y métodos.
+
+Principales conceptos de herencia:
+1- Clase base: es la clase origial que heredará sus atributos.
+2- Subclase: es la clase que hereda los atributos y/o métodos del "padre".
+
+Ventajas de la herencia:
+
+1- Reutilización de código: permite reutilizar código existente, ahorra líneas de código.
+2- Extensibilidad: permite extender la funcionalidad de las clases existentes.
+3- Abstracción: crea estructuras jerárquicas de clases, más orden y fácil comprensión del código.
+
